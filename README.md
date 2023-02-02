@@ -1,5 +1,7 @@
-Waku up!!!というWebアプリを作成した。<br>
+Wakeup!!!というWebアプリを作成した。<br>
+<p>
 ・使用したもの
-Python、Django、html
+Python、Django、html<br>
+<p>
 ・実装方法
 まぶたをカメラで検知し、まぶたが閉じているか判定を行った。まぶたが閉じている場合は警告音で通知できるようになっている。
